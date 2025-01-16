@@ -49,8 +49,7 @@ components:
       example: '[{"productId": 12,"quantity": 10000,"customerReference": ["PO0000001.2", "SM20180105|042"],"couponCode": "pes[Bh.u*t"},{"productId": 13,"quantity": 2000,"customerReference": "PO0000003.4"}]'
 security:
   -
-    bearerAuth: []
+    bearerAuth: [
     git_org              = "bridgecrewio"
     git_repo             = "terragoat"
-    yor_trace            = "47c13290-c2ce-48a7-b666-1b0085effb92"
-    
+    yor_trace            = "47c13290-c2ce-48a7-b666-1b0085effb92"]
